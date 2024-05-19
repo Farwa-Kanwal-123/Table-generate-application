@@ -1,0 +1,20 @@
+{
+  "name": "f1k2-table-generate-cli-application-7869",
+  "version": "2.2.0",
+  "description": "table generator CLI project, user can enter any number,table will be printed to that nummber",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Farwa-Kanwal",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.22"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
